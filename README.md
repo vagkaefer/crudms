@@ -11,7 +11,7 @@ Meta: Agilizar o desenvolvimento de sites dinâmicos que utilizam PHP!
 Itens:
 
 - Login
-- Bloqueio de tentativas de logins
+- Bloqueio automatico contra de tentativas de logins inválidas
 - Permissões por módulo
 - Módulos usando MVC
 - Upload de imagens
